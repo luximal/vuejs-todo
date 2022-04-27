@@ -7,14 +7,14 @@ body {
 	background: #2a3a4a;
 	font-family: Arial, Tahoma, sans-serif;
 	user-select: none;
-  color: #1a2a3a;
+	color: #1a2a3a;
 }
 .octocat {
 	position: absolute;
 	right: 10px;
 	top: 0px;
-  color: #000;
-  transition: all 0.3s ease;
+	color: #000;
+	transition: all 0.3s ease;
 }
 .octocat:hover {
 	color: #8bc34a;
