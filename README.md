@@ -1,4 +1,6 @@
-# vue-todo
+# vuejs-todo
+[See live exsample](https://luximal.github.io/vuejs-todo/dist/).
+
 
 ## Project setup
 ```
